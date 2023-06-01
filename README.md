@@ -1,7 +1,8 @@
 "# MongoDB-Aggregation-Framework-Indexing" 
 
 
-#facet operator
+# facet operator
+
 ```db.practice.aggregate([
     {
         $match: { _id: ObjectId("6406ad63fc13ae5a40000066") }
