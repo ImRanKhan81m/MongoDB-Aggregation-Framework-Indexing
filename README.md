@@ -1,4 +1,4 @@
-"# MongoDB-Aggregation-Framework-Indexing" 
+# MongoDB-Aggregation-Framework-Indexing
 
 
 # facet operator
